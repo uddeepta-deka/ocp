@@ -1,0 +1,732 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.2)  23 SEP 2020 23:31
+entering extended mode
+**./report.tex
+(report.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03>
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/sttools/flushend.sty
+Package: flushend 2017/03/27 v3.3 Balancing columns in twocolumn mode
+\flushend@@lastskip@a=\skip49
+\flushend@@lastskip@b=\skip50
+\flushend@@lastskip@c=\skip51
+\flushend@@penalty@a=\count175
+\flushend@@lastkern@a=\dimen135
+\var@@temp@spread=\dimen136
+\var@@temp@a=\dimen137
+\flushend@@page@rule=\dimen138
+\flushend@@varbox@a=\box45
+\flushend@@varbox@c=\box46
+\flushend@@tempbox@a=\box47
+\flushend@@tempbox@c=\box48
+\@viper=\box49
+\hold@viper=\box50
+\atColsBreak=\toks15
+\atColsEnd=\toks16
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count176
+))
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen139
+))
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count177
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count178
+\leftroot@=\count179
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count180
+\DOTSCASE@=\count181
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count182
+\c@MaxMatrixCols=\count183
+\dotsspace@=\muskip16
+\c@parentequation=\count184
+\dspbrk@lvl=\count185
+\tag@help=\toks18
+\row@=\count186
+\column@=\count187
+\maxfields@=\count188
+\andhelp@=\toks19
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks20
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/caption/caption.sty
+Package: caption 2020/05/30 v3.4k Customizing captions (AR)
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/caption/caption3.sty
+Package: caption3 2020/05/30 v1.12 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen150
+\captionmargin@=\dimen151
+\captionwidth=\dimen152
+\caption@tempdima=\dimen153
+\caption@indent=\dimen154
+\caption@parindent=\dimen155
+\caption@hangindent=\dimen156
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count189
+\c@continuedfloat=\count190
+)
+\c@subfigure=\count191
+\c@subtable=\count192
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count193
+\float@exts=\toks23
+\float@box=\box53
+\@float@everytoks=\toks24
+\@floatcapt=\box54
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count194
+\calc@Bcount=\count195
+\calc@Adimen=\dimen157
+\calc@Bdimen=\dimen158
+\calc@Askip=\skip55
+\calc@Bskip=\skip56
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count196
+\calc@Cskip=\skip57
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count197
+\l_MT_multwidth_dim=\dimen159
+\origjot=\skip58
+\l_MT_shortvdotswithinadjustabove_dim=\dimen160
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen161
+\l_MT_above_intertext_sep=\dimen162
+\l_MT_below_intertext_sep=\dimen163
+\l_MT_above_shortintertext_sep=\dimen164
+\l_MT_below_shortintertext_sep=\dimen165
+\xmathstrut@box=\box55
+\xmathstrut@dim=\dimen166
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/mathtools/empheq.sty
+Package: empheq 2017/03/31 v2.15 Emphasizing equations
+\l_EQ_equationtype_int=\count198
+\l_EQ_alignmentmode_int=\count199
+\l_EQ_totalwidth_dim=\dimen167
+\l_EQ_displaywidth_dim=\dimen168
+\l_EQ_temp_linewidth_dim=\dimen169
+\l_EQ_linewidth_dim=\dimen170
+\EmphEqdelimitershortfall=\dimen171
+\EmphEqdelimiterfactor=\count266
+\g_EQ_toptag_height_dim=\dimen172
+\g_EQ_bottomtag_depth_dim=\dimen173
+\g_EQ_toprow_height_dim=\dimen174
+\g_EQ_bottomrow_depth_dim=\dimen175
+\g_EQ_widesttag_dim=\dimen176
+\EQ_mathdisplay_box=\box56
+\EQ_tag_box=\box57
+\g_EQ_temprow_int=\count267
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(/home/uddeepta/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-04 v0.32 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/home/uddeepta/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.st
+y
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/home/uddeepta/.miktex/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen177
+\Hy@linkcounter=\count268
+\Hy@pagecounter=\count269
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count270
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count271
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen178
+
+(/home/uddeepta/.miktex/texmfs/install/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/home/uddeepta/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count272
+\Field@Width=\dimen179
+\Fld@charsize=\dimen180
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(/home/uddeepta/.miktex/texmfs/install/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count273
+\c@Item=\count274
+\c@Hfootnote=\count275
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+)
+\Fld@listcount=\count276
+\c@bookmark@seq@number=\count277
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.
+sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/home/uddeepta/.miktex/texmfs/install/tex/generic/uniquecounter/uniquecounter.
+sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip59
+) (/home/uddeepta/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip60
+\f@nch@O@elh=\skip61
+\f@nch@O@erh=\skip62
+\f@nch@O@olh=\skip63
+\f@nch@O@orh=\skip64
+\f@nch@O@elf=\skip65
+\f@nch@O@erf=\skip66
+\f@nch@O@olf=\skip67
+\f@nch@O@orf=\skip68
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 12.
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/home/uddeepta/.miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count278
+\Gm@cntv=\count279
+\c@Gm@tempcnt=\count280
+\Gm@bindingoffset=\dimen181
+\Gm@wd@mp=\dimen182
+\Gm@odd@mp=\dimen183
+\Gm@even@mp=\dimen184
+\Gm@layoutwidth=\dimen185
+\Gm@layoutheight=\dimen186
+\Gm@layouthoffset=\dimen187
+\Gm@layoutvoffset=\dimen188
+\Gm@dimlist=\toks25
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/ieeetrantools/IEEEtrantools.st
+y
+Package: IEEEtrantools 2015/08/26 V1.5 by Michael Shell
+
+-- See the "IEEEtrantools_doc.txt" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/tools/
+\@IEEEtrantmpdimenA=\dimen189
+\@IEEEtrantmpdimenB=\dimen190
+\@IEEEtrantmpdimenC=\dimen191
+\@IEEEtrantmpcountA=\count281
+\@IEEEtrantmpcountB=\count282
+\@IEEEtrantmpcountC=\count283
+\@IEEEtrantmptoksA=\toks26
+\IEEEnormaljot=\dimen192
+\IEEEquantizedlength=\dimen193
+\IEEEquantizedlengthdiff=\dimen194
+\IEEEquantizedtextheightdiff=\dimen195
+\IEEEilabelindentA=\dimen196
+\IEEEilabelindentB=\dimen197
+\IEEEilabelindent=\dimen198
+\IEEEelabelindent=\dimen199
+\IEEEdlabelindent=\dimen256
+\IEEElabelindent=\dimen257
+\IEEEiednormlabelsep=\dimen258
+\IEEEiedmathlabelsep=\dimen259
+\IEEEiedtopsep=\skip69
+\c@IEEEsubequation=\count284
+\@IEEEeqnnumcols=\count285
+\@IEEEeqncolcnt=\count286
+\@IEEEsubeqnnumrollback=\count287
+\IEEEPARstartletwidth=\dimen260
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdfmode.de
+f
+File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count288
+\l__pdf_internal_box=\box58
+) (report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+
+(/home/uddeepta/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count289
+\scratchdimen=\dimen261
+\scratchbox=\box59
+\nofMPsegments=\count290
+\nofMParguments=\count291
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count292
+\MPscratchDim=\dimen262
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
+\everyMPtoPDFconversion=\toks28
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box60
+ (/home/uddeepta/.miktex/texmfs/install/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 25.
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/home/uddeepta/.miktex/texmfs/install/tex/generic/gettitlestring/gettitlestrin
+g.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count295
+)
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
+ (report.out) (report.out)
+\@outlinefile=\write3
+\openout3 = `report.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=672.1112pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-3.61371pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
+
+
+(/home/uddeepta/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (report.toc)
+\tf@toc=\write4
+\openout4 = `report.toc'.
+
+[1
+
+{/home/uddeepta/.miktex/texmfs/data/pdftex/config/pdftex.map}] [2] [3]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 125.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 125.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 125.
+
+[4] [5] [6]
+<m00.jpg, id=137, 867.24pt x 433.62pt>
+File: m00.jpg Graphic file (type jpg)
+<use m00.jpg>
+Package pdftex.def Info: m00.jpg  used on input line 225.
+(pdftex.def)             Requested size: 362.37569pt x 181.18623pt.
+
+Overfull \hbox (39.18672pt too wide) in paragraph at lines 222--228
+\OT1/cmr/m/n/10.95 Simulations are carried out for $\OML/cmm/m/it/10.95 N \OT1/
+cmr/m/n/10.95 = \OMS/cmsy/m/n/10.95 f\OT1/cmr/m/n/10.95 100\OML/cmm/m/it/10.95 
+; \OT1/cmr/m/n/10.95 200\OML/cmm/m/it/10.95 ; \OT1/cmr/m/n/10.95 500\OMS/cmsy/m
+/n/10.95 g$ \OT1/cmr/m/n/10.95 particles for various values of $\OML/cmm/m/it/1
+0.95  \OT1/cmr/m/n/10.95 = \OMS/cmsy/m/n/10.95 f\OT1/cmr/m/n/10.95 0\OML/cmm/m
+/it/10.95 ; \OMS/cmsy/m/n/10.95 \OT1/cmr/m/n/10.95 1\OML/cmm/m/it/10.95 ; \OMS
+/cmsy/m/n/10.95 \OT1/cmr/m/n/10.95 50\OML/cmm/m/it/10.95 ; \OMS/cmsy/m/n/10.95
+ \OT1/cmr/m/n/10.95 200\OMS/cmsy/m/n/10.95 g$\OT1/cmr/m/n/10.95 .
+ []
+
+<m1.jpg, id=138, 867.24pt x 433.62pt>
+File: m1.jpg Graphic file (type jpg)
+<use m1.jpg>
+Package pdftex.def Info: m1.jpg  used on input line 231.
+(pdftex.def)             Requested size: 362.37569pt x 181.18623pt.
+[7]
+<m-1.jpg, id=151, 867.24pt x 433.62pt>
+File: m-1.jpg Graphic file (type jpg)
+<use m-1.jpg>
+Package pdftex.def Info: m-1.jpg  used on input line 237.
+(pdftex.def)             Requested size: 362.37569pt x 181.18623pt.
+<m50.jpg, id=152, 867.24pt x 433.62pt>
+File: m50.jpg Graphic file (type jpg)
+<use m50.jpg>
+Package pdftex.def Info: m50.jpg  used on input line 243.
+(pdftex.def)             Requested size: 362.37569pt x 181.18623pt.
+<m-50.jpg, id=153, 867.24pt x 433.62pt>
+File: m-50.jpg Graphic file (type jpg)
+<use m-50.jpg>
+Package pdftex.def Info: m-50.jpg  used on input line 249.
+(pdftex.def)             Requested size: 362.37569pt x 181.18623pt.
+ [8 <./m00.jpg> <./m1.jpg> <./m-1.jpg>]
+<m200.jpg, id=162, 867.24pt x 433.62pt>
+File: m200.jpg Graphic file (type jpg)
+<use m200.jpg>
+Package pdftex.def Info: m200.jpg  used on input line 255.
+(pdftex.def)             Requested size: 362.37569pt x 181.18623pt.
+<m-200.jpg, id=163, 867.24pt x 433.62pt>
+File: m-200.jpg Graphic file (type jpg)
+<use m-200.jpg>
+Package pdftex.def Info: m-200.jpg  used on input line 261.
+(pdftex.def)             Requested size: 362.37569pt x 181.18623pt.
+ [9 <./m50.jpg> <./m-50.jpg> <./m200.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 268.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 268.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 268.
+
+[10 <./m-200.jpg>]
+<aa1.jpg, id=196, 867.24pt x 433.62pt>
+File: aa1.jpg Graphic file (type jpg)
+<use aa1.jpg>
+Package pdftex.def Info: aa1.jpg  used on input line 326.
+(pdftex.def)             Requested size: 362.37569pt x 181.18623pt.
+<aa2.jpg, id=197, 867.24pt x 433.62pt>
+File: aa2.jpg Graphic file (type jpg)
+<use aa2.jpg>
+Package pdftex.def Info: aa2.jpg  used on input line 332.
+(pdftex.def)             Requested size: 362.37569pt x 181.18623pt.
+<aa3.jpg, id=198, 867.24pt x 433.62pt>
+File: aa3.jpg Graphic file (type jpg)
+<use aa3.jpg>
+Package pdftex.def Info: aa3.jpg  used on input line 338.
+(pdftex.def)             Requested size: 362.37569pt x 181.18623pt.
+ [11 <./aa1.jpg>]
+<aa4.jpg, id=208, 867.24pt x 433.62pt>
+File: aa4.jpg Graphic file (type jpg)
+<use aa4.jpg>
+Package pdftex.def Info: aa4.jpg  used on input line 344.
+(pdftex.def)             Requested size: 362.37569pt x 181.18623pt.
+<aa5.jpg, id=209, 867.24pt x 433.62pt>
+File: aa5.jpg Graphic file (type jpg)
+<use aa5.jpg>
+Package pdftex.def Info: aa5.jpg  used on input line 350.
+(pdftex.def)             Requested size: 362.37569pt x 181.18623pt.
+ [12 <./aa2.jpg> <./aa3.jpg> <./aa4.jpg>]
+<convergence2.jpg, id=217, 722.7pt x 578.16pt>
+File: convergence2.jpg Graphic file (type jpg)
+<use convergence2.jpg>
+Package pdftex.def Info: convergence2.jpg  used on input line 361.
+(pdftex.def)             Requested size: 252.94878pt x 202.35902pt.
+
+Overfull \hbox (26.46483pt too wide) in paragraph at lines 361--362
+ [][] 
+ []
+
+<convergence3.jpg, id=218, 722.7pt x 578.16pt>
+File: convergence3.jpg Graphic file (type jpg)
+<use convergence3.jpg>
+Package pdftex.def Info: convergence3.jpg  used on input line 366.
+(pdftex.def)             Requested size: 252.94878pt x 202.35902pt.
+
+Overfull \hbox (26.46483pt too wide) in paragraph at lines 366--367
+ [][] 
+ []
+
+<convergence1.jpg, id=219, 722.7pt x 578.16pt>
+File: convergence1.jpg Graphic file (type jpg)
+<use convergence1.jpg>
+Package pdftex.def Info: convergence1.jpg  used on input line 373.
+(pdftex.def)             Requested size: 362.37569pt x 289.89973pt.
+
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 359--376
+[]$[]$ $[]$ 
+ []
+
+[13 <./aa5.jpg>] [14 <./convergence2.jpg> <./convergence3.jpg> <./convergence1.
+jpg>]
+Overfull \hbox (10.22919pt too wide) detected at line 419
+[]
+ []
+
+[15] [16]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 488.
+ [17]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 488.
+ (report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 488.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 488.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 96211F68F0E42FE2231498B3DA28D520;512.
+ ) 
+Here is how much of TeX's memory you used:
+ 10082 strings out of 482730
+ 157699 string characters out of 2948768
+ 444904 words of memory out of 3000000
+ 25552 multiletter control sequences out of 15000+200000
+ 545274 words of font info for 73 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 45i,12n,47p,965b,548s stack positions out of 5000i,500n,10000p,200000b,50000s
+</home/uddeepta/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.
+pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx1
+2.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmb
+x8.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cm
+ex10.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/
+cmmi10.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/public/amsfonts/c
+m/cmmi12.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/public/amsfonts
+/cm/cmmi6.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/public/amsfont
+s/cm/cmmi8.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/public/amsf
+onts/cm/cmr17.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/public/ams
+fonts/cm/cmr6.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/public/ams
+fonts/cm/cmr8.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/public/ams
+fonts/cm/cmsl10.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/public/a
+msfonts/cm/cmss10.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/public
+/amsfonts/cm/cmss9.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/pub
+lic/amsfonts/cm/cmsy6.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/pu
+blic/amsfonts/cm/cmsy7.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/p
+ublic/amsfonts/cm/cmsy8.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type1/
+public/amsfonts/cm/cmti10.pfb></home/uddeepta/.miktex/texmfs/install/fonts/type
+1/public/amsfonts/symbols/msam10.pfb></home/uddeepta/.miktex/texmfs/install/fon
+ts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on report.pdf (17 pages, 1066699 bytes).
+PDF statistics:
+ 377 PDF objects out of 1000 (max. 8388607)
+ 112 named destinations out of 1000 (max. 500000)
+ 140 words of extra memory for PDF output out of 10000 (max. 10000000)
+
